@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working at Interface.ai as a SDE 2
-- 🌱 I’m currently learning Optimization Techniques for user friendly web apps
+- 🔭 I’m currently working at Interface.ai as a Senior Software Engineer
+- 🌱 I’m currently learning Optimization Techniques for user-friendly web apps
 - 💬 Ask me about Nextjs, Reactjs, Typescript, Nodejs
 
 
