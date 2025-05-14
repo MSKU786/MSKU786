@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Manish Singh**, a passionate **Senior Software Engineer** with 3+ years of experience in backend development. I specialize in building reliable, scalable, and secure systems using:
+I'm **Manish Singh**, a passionate **Senior Software Engineer** with 4+ years of experience in backend development. I specialize in building reliable, scalable, and secure systems using:
 
 - ⚙️ **Node.js**, **TypeScript**, **React**
 - 🗄️ **PostgreSQL**, **MongoDB**
